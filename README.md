@@ -2,6 +2,9 @@
 my own studied materials
 ## **Cell Culture**
 - [Vidio(thermo): Cell Culture Basics - 5 Episodes: Introduction, Cell Revival, Cell Passage, Cell Cryopreservation, Aseptic Technique](https://www.bilibili.com/video/BV1dx411o7P5/?spm_id_from=333.1387.favlist.content.click&vd_source=36b00ade440dd3168ce7d72ace5e6b8f)
+## **qRT-PCR**
+- [Video: qRT-PCR最详细全流程！看完包会！(ZJU)](https://www.bilibili.com/video/BV1QSDGYREEn/?spm_id_from=333.1391.0.0&vd_source=36b00ade440dd3168ce7d72ace5e6b8f)
+- [Video: qPCR](https://www.bilibili.com/video/BV1fC4y1e7mg/?spm_id_from=333.1391.0.0&vd_source=36b00ade440dd3168ce7d72ace5e6b8f)
 ## **Western Blot**
 - [Video 1: Protein extraction and protein quantification](https://www.bilibili.com/video/BV1sP7fziE98/?spm_id_from=333.1387.homepage.video_card.click)
 - [Video 2: Protein glue making](https://www.bilibili.com/video/BV128EizVEcT/?spm_id_from=333.1387.homepage.video_card.click&vd_source=36b00ade440dd3168ce7d72ace5e6b8f)
